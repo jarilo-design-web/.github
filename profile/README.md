@@ -1,3 +1,3 @@
 # Jarilo Design (Web Team)
 
-Welcome to the web team repo org. This is a place for anything website related.
+A warm welcome from the Jarilo design team. This is a sub-organisation of [Jarilo](https://github.com/jarilo-design)
